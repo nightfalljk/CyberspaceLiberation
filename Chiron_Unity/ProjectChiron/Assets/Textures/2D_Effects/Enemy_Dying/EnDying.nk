@@ -1,0 +1,114 @@
+#! C:/Program Files/Nuke12.1v1/nuke-12.1.1.dll -nx
+#write_info Write1 file:"D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Enemy_Dying/SMOL_EnDying_Outrun.png" format:"2048 2048 1" chans:":rgba.red:rgba.green:rgba.blue:rgba.alpha:" framerange:"1 20" fps:"0" colorspace:"default (sRGB)" datatype:"8 bit" transfer:"unknown" views:"main" colorManagement:"Nuke"
+version 12.1 v1
+define_window_layout_xml {<?xml version="1.0" encoding="UTF-8"?>
+<layout version="1.0">
+    <window x="0" y="0" w="2557" h="1368" screen="0">
+        <splitter orientation="1">
+            <split size="40"/>
+            <dock id="" hideTitles="1" activePageId="Toolbar.1">
+                <page id="Toolbar.1"/>
+            </dock>
+            <split size="1894" stretch="1"/>
+            <splitter orientation="2">
+                <split size="781"/>
+                <dock id="" activePageId="Viewer.1">
+                    <page id="Viewer.1"/>
+                </dock>
+                <split size="549"/>
+                <dock id="" activePageId="DAG.1" focus="true">
+                    <page id="DAG.1"/>
+                    <page id="Curve Editor.1"/>
+                    <page id="DopeSheet.1"/>
+                </dock>
+            </splitter>
+            <split size="615"/>
+            <dock id="" activePageId="Properties.1">
+                <page id="Properties.1"/>
+                <page id="uk.co.thefoundry.backgroundrenderview.1"/>
+            </dock>
+        </splitter>
+    </window>
+</layout>
+}
+Root {
+ inputs 0
+ name "D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Enemy_Dying/EnDying.nk"
+ frame 20
+ last_frame 20
+ lock_range true
+ format "2048 1556 0 0 2048 1556 1 2K_Super_35(full-ap)"
+ proxy_type scale
+ proxy_format "1024 778 0 0 1024 778 1 1K_Super_35(full-ap)"
+ colorManagement Nuke
+ workingSpaceLUT linear
+ monitorLut sRGB
+ int8Lut sRGB
+ int16Lut sRGB
+ logLut Cineon
+ floatLut linear
+}
+Read {
+ inputs 0
+ file_type exr
+ file "D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Enemy_Dying/Outrun/v01/SMOL_EnDying_Outrun_####.exr"
+ format "1280 720 0 0 1280 720 1 HD_720"
+ last 20
+ origlast 20
+ origset true
+ name Read1
+ xpos 7
+ ypos -177
+}
+set N8ddc00 [stack 0]
+Retime {
+ input.last 20
+ output.last 19
+ speed 1.1
+ time ""
+ name Retime1
+ xpos 7
+ ypos -20
+}
+Read {
+ inputs 0
+ file_type exr
+ file "D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Enemy_Dying/Vaporwave/v01/SMOL_EnDying_Vaporwave_####.exr"
+ format "1280 720 0 0 1280 720 1 HD_720"
+ last 20
+ origlast 20
+ origset true
+ name Read2
+ xpos 183
+ ypos -164
+}
+push $N8ddc00
+ContactSheet {
+ width 2048
+ rows 5
+ roworder TopBottom
+ splitinputs true
+ startframe 1
+ endframe 21
+ name ContactSheet1
+ xpos 381
+ ypos -50
+}
+Write {
+ channels rgba
+ file "D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Enemy_Dying/SMOL_EnDying_Outrun.png"
+ file_type png
+ checkHashOnRead false
+ version 2
+ name Write1
+ selected true
+ xpos 381
+ ypos 2
+}
+Viewer {
+ frame 20
+ frame_range 1-20
+ name Viewer1
+ xpos 168
+ ypos 123
+}

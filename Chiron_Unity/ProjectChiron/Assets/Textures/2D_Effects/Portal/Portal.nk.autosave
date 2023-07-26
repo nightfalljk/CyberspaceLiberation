@@ -1,0 +1,176 @@
+#! C:/Program Files/Nuke12.1v1/nuke-12.1.1.dll -nx
+version 12.1 v1
+define_window_layout_xml {<?xml version="1.0" encoding="UTF-8"?>
+<layout version="1.0">
+    <window x="0" y="0" w="2557" h="1368" screen="0">
+        <splitter orientation="1">
+            <split size="40"/>
+            <dock id="" hideTitles="1" activePageId="Toolbar.1">
+                <page id="Toolbar.1"/>
+            </dock>
+            <split size="1894" stretch="1"/>
+            <splitter orientation="2">
+                <split size="781"/>
+                <dock id="" activePageId="Viewer.1">
+                    <page id="Viewer.1"/>
+                </dock>
+                <split size="549"/>
+                <dock id="" activePageId="DAG.1" focus="true">
+                    <page id="DAG.1"/>
+                    <page id="Curve Editor.1"/>
+                    <page id="DopeSheet.1"/>
+                </dock>
+            </splitter>
+            <split size="615"/>
+            <dock id="" activePageId="Properties.1">
+                <page id="Properties.1"/>
+                <page id="uk.co.thefoundry.backgroundrenderview.1"/>
+            </dock>
+        </splitter>
+    </window>
+</layout>
+}
+Root {
+ inputs 0
+ name "D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Portal/Portal.nk"
+ frame 1020
+ first_frame 1000
+ last_frame 1090
+ lock_range true
+ format "2048 1556 0 0 2048 1556 1 2K_Super_35(full-ap)"
+ proxy_type scale
+ proxy_format "1024 778 0 0 1024 778 1 1K_Super_35(full-ap)"
+ colorManagement Nuke
+ workingSpaceLUT linear
+ monitorLut sRGB
+ int8Lut sRGB
+ int16Lut sRGB
+ logLut Cineon
+ floatLut linear
+}
+Read {
+ inputs 0
+ file_type exr
+ file "D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Portal/v01/SMOL_Portal_Outrun_####.exr"
+ format "1280 720 0 0 1280 720 1 HD_720"
+ first 1000
+ last 1090
+ origfirst 1000
+ origlast 1090
+ origset true
+ name Read1
+ xpos -108
+ ypos -171
+}
+Glow2 {
+ tint 0.42
+ brightness 0.86
+ size 46
+ name Glow1
+ xpos -108
+ ypos 18
+}
+Blur {
+ size 1
+ name Blur1
+ xpos -108
+ ypos 108
+}
+set Na1a61000 [stack 0]
+Write {
+ channels rgba
+ file "D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Portal/v01/final/SMOL_Portal_Outrun_%04d.png"
+ file_type png
+ checkHashOnRead false
+ version 2
+ name Write1
+ xpos -232
+ ypos 108
+}
+push $Na1a61000
+ContactSheet {
+ width 2048
+ rows 6
+ columns 6
+ roworder TopBottom
+ splitinputs true
+ startframe 1006
+ endframe 1042
+ name ContactSheet1
+ xpos -108
+ ypos 191
+}
+Write {
+ channels rgba
+ file "D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Shooter_var02/v02/SMOL_Portal_Outrun_v01.png"
+ file_type png
+ checkHashOnRead false
+ version 1
+ name Write3
+ xpos -108
+ ypos 247
+}
+Read {
+ inputs 0
+ file_type exr
+ file "D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Portal/v02/SMOL_Portal_Vaporwave_####.exr"
+ format "1280 720 0 0 1280 720 1 HD_720"
+ first 1000
+ last 1090
+ origfirst 1000
+ origlast 1090
+ origset true
+ name Read2
+ xpos -598
+ ypos -182
+}
+Glow2 {
+ brightness 0.14
+ size 100
+ name Glow2
+ selected true
+ xpos -598
+ ypos -39
+}
+set N7b5800 [stack 0]
+Write {
+ channels rgba
+ file "D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Portal/v02/final/SMOL_Portal_Vaporwave_%04d.png"
+ file_type png
+ checkHashOnRead false
+ version 1
+ name Write2
+ xpos -774
+ ypos -46
+}
+push $N7b5800
+ContactSheet {
+ width 2048
+ rows 6
+ columns 6
+ roworder TopBottom
+ splitinputs true
+ startframe 1006
+ endframe 1042
+ name ContactSheet2
+ xpos -598
+ ypos 33
+}
+Write {
+ channels rgba
+ file "D:/Jasmin_Bittner/6.Semester/CG_for Games/Abgabe/2D_Pack/Smol_Effects/Smol_Game_TUM/render/Shooter_var02/v02/SMOL_Portal_Vaporwave_v01.png"
+ file_type png
+ checkHashOnRead false
+ version 2
+ name Write4
+ xpos -598
+ ypos 98
+}
+push $N7b5800
+Viewer {
+ frame 1020
+ frame_range 1000-1090
+ name Viewer1
+ xpos 251
+ ypos 243
+}

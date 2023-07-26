@@ -1,0 +1,1056 @@
+fileFormatVersion: 2
+guid: 6ef5cbd0f3fe97c47aefe55df413f17e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7991698793664532543
+    second: SMOL_Shooter_Player_Impact_v01_0
+  - first:
+      213: -4489983745846566280
+    second: SMOL_Shooter_Player_Impact_v01_1
+  - first:
+      213: -8559230123162838830
+    second: SMOL_Shooter_Player_Impact_v01_2
+  - first:
+      213: 3248166494818081450
+    second: SMOL_Shooter_Player_Impact_v01_3
+  - first:
+      213: -1692114695095831611
+    second: SMOL_Shooter_Player_Impact_v01_4
+  - first:
+      213: 6131384191791980230
+    second: SMOL_Shooter_Player_Impact_v01_5
+  - first:
+      213: 1558890435139645664
+    second: SMOL_Shooter_Player_Impact_v01_6
+  - first:
+      213: -4663500805275396372
+    second: SMOL_Shooter_Player_Impact_v01_7
+  - first:
+      213: -4187509598514401041
+    second: SMOL_Shooter_Player_Impact_v01_8
+  - first:
+      213: 1180493888036165747
+    second: SMOL_Shooter_Player_Impact_v01_9
+  - first:
+      213: -6505526130620256775
+    second: SMOL_Shooter_Player_Impact_v01_10
+  - first:
+      213: -979676531959753158
+    second: SMOL_Shooter_Player_Impact_v01_11
+  - first:
+      213: 2481552661131968549
+    second: SMOL_Shooter_Player_Impact_v01_12
+  - first:
+      213: -7756855065402166527
+    second: SMOL_Shooter_Player_Impact_v01_13
+  - first:
+      213: -6198104829867517615
+    second: SMOL_Shooter_Player_Impact_v01_14
+  - first:
+      213: -4478627315230640034
+    second: SMOL_Shooter_Player_Impact_v01_15
+  - first:
+      213: -5271498419789254914
+    second: SMOL_Shooter_Player_Impact_v01_16
+  - first:
+      213: 2990576104161840331
+    second: SMOL_Shooter_Player_Impact_v01_17
+  - first:
+      213: -8503495341801422776
+    second: SMOL_Shooter_Player_Impact_v01_18
+  - first:
+      213: -5987091978306828192
+    second: SMOL_Shooter_Player_Impact_v01_19
+  - first:
+      213: -2610109747097001884
+    second: SMOL_Shooter_Player_Impact_v01_20
+  - first:
+      213: -794550031757977508
+    second: SMOL_Shooter_Player_Impact_v01_21
+  - first:
+      213: 5002939967472309895
+    second: SMOL_Shooter_Player_Impact_v01_22
+  - first:
+      213: 3801431388203025848
+    second: SMOL_Shooter_Player_Impact_v01_23
+  - first:
+      213: 909351541508660879
+    second: SMOL_Shooter_Player_Impact_v01_24
+  - first:
+      213: -4618669283034346814
+    second: SMOL_Shooter_Player_Impact_v01_25
+  - first:
+      213: -5017952769487291465
+    second: SMOL_Shooter_Player_Impact_v01_26
+  - first:
+      213: 1425126464898265693
+    second: SMOL_Shooter_Player_Impact_v01_27
+  - first:
+      213: -2863676371166731047
+    second: SMOL_Shooter_Player_Impact_v01_28
+  - first:
+      213: 6435600462332283980
+    second: SMOL_Shooter_Player_Impact_v01_29
+  - first:
+      213: 2160023892010300620
+    second: SMOL_Shooter_Player_Impact_v01_30
+  - first:
+      213: 5239026975492822241
+    second: SMOL_Shooter_Player_Impact_v01_31
+  - first:
+      213: -2643836739634010888
+    second: SMOL_Shooter_Player_Impact_v01_32
+  - first:
+      213: -8971162518460695811
+    second: SMOL_Shooter_Player_Impact_v01_33
+  - first:
+      213: -2608749738447752743
+    second: SMOL_Shooter_Player_Impact_v01_34
+  - first:
+      213: -4390859590390492167
+    second: SMOL_Shooter_Player_Impact_v01_35
+  - first:
+      213: 2552414399225003631
+    second: SMOL_Shooter_Player_Impact_v01_36
+  - first:
+      213: 7380412426386077457
+    second: SMOL_Shooter_Player_Impact_v01_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1760
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30da4406b738ee60800000000000000
+      internalID: 7991698793664532543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1760
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872a985729f50b1c0800000000000000
+      internalID: -4489983745846566280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_2
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1760
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d85e0e3d81873980800000000000000
+      internalID: -8559230123162838830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_3
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1760
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa15fea73ec31d20800000000000000
+      internalID: 3248166494818081450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_4
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1760
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3389766a66488e0800000000000000
+      internalID: -1692114695095831611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_5
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1760
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ced43ddf6d071550800000000000000
+      internalID: 6131384191791980230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_6
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1760
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0b046679a42a510800000000000000
+      internalID: 1558890435139645664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1416
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6dfc3d9bae74fb0800000000000000
+      internalID: -4663500805275396372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1416
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0b20fd43af2e5c0800000000000000
+      internalID: -4187509598514401041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_9
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1416
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3785ae7cfe4f16010800000000000000
+      internalID: 1180493888036165747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_10
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1416
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdab53b37ab7b5a0800000000000000
+      internalID: -6505526130620256775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_11
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1416
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3690cd726d7762f0800000000000000
+      internalID: -979676531959753158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_12
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1416
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520423a5ffe307220800000000000000
+      internalID: 2481552661131968549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_13
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1416
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103b3846a6d1a5490800000000000000
+      internalID: -7756855065402166527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1072
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1591d170f78ebf9a0800000000000000
+      internalID: -6198104829867517615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1072
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58f0528f28b8d1c0800000000000000
+      internalID: -4478627315230640034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_16
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1072
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efead66ed10e7d6b0800000000000000
+      internalID: -5271498419789254914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_17
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1072
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc865a3f19a08920800000000000000
+      internalID: 2990576104161840331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_18
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1072
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ccb24a048df980800000000000000
+      internalID: -8503495341801422776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_19
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1072
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0684e63119399eca0800000000000000
+      internalID: -5987091978306828192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_20
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1072
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460af73930707cbd0800000000000000
+      internalID: -2610109747097001884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 728
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c585ac0b4f039f4f0800000000000000
+      internalID: -794550031757977508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_22
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 728
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7869ac9c4630e6540800000000000000
+      internalID: 5002939967472309895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_23
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 728
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b58cdbe4b561c430800000000000000
+      internalID: 3801431388203025848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_24
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 728
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed397b86aae9c00800000000000000
+      internalID: 909351541508660879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_25
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 728
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cacab102c037efb0800000000000000
+      internalID: -4618669283034346814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_26
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 728
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbb50bda86ac5ab0800000000000000
+      internalID: -5017952769487291465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_27
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 728
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52f44c18f017c310800000000000000
+      internalID: 1425126464898265693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 384
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46de8438d2248d0800000000000000
+      internalID: -2863676371166731047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_29
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 384
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cc7a1f588df4950800000000000000
+      internalID: 6435600462332283980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_30
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 384
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc471a51942f9fd10800000000000000
+      internalID: 2160023892010300620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_31
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 384
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e450f2d643c4b840800000000000000
+      internalID: 5239026975492822241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_32
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 384
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4ecf13e743f4bd0800000000000000
+      internalID: -2643836739634010888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_33
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 384
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaf9d08837008380800000000000000
+      internalID: -8971162518460695811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_34
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 384
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1bde34febdbcbd0800000000000000
+      internalID: -2608749738447752743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 40
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3582067788013c0800000000000000
+      internalID: -4390859590390492167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_36
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 40
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ef5617f5ffb6320800000000000000
+      internalID: 2552414399225003631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_Impact_v01_37
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 40
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117fe9aaffd7c6660800000000000000
+      internalID: 7380412426386077457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f5b302b5811f4ad478343eea404ece3e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cbb9c970ffe4974aaf6fb2f9c47aa28, type: 3}
+  m_Name: SlowFieldConfig
+  m_EditorClassIdentifier: 
+  slowProjectile: {fileID: 1398301302181205751, guid: 17d47c3871f9b56449c6c1d376702a03, type: 3}
+  cooldown: 10
+  duration: 6
+  range: 7
+  maxHeight: 3
+  gravity: -18
+  firingAngle: -45
+  moveSlowFactor: 0.5
+  attackSlowFactor: 0.5
+  tutExecutionCount:
+    value: 0
+  tutConditionCount: 1
+  tutCondition:
+    value: 0

@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 61df7da5f2ffedf469fb1d4e506fcb72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1317819889745377188
+    second: SMOL_Portal_Vaporwave_v01_0
+  - first:
+      213: -8009879093588277146
+    second: SMOL_Portal_Vaporwave_v01_1
+  - first:
+      213: 1595902447900928136
+    second: SMOL_Portal_Vaporwave_v01_2
+  - first:
+      213: 5890198781671696441
+    second: SMOL_Portal_Vaporwave_v01_3
+  - first:
+      213: -3372811034367995251
+    second: SMOL_Portal_Vaporwave_v01_4
+  - first:
+      213: -6821736122007308183
+    second: SMOL_Portal_Vaporwave_v01_5
+  - first:
+      213: -4056815515600041875
+    second: SMOL_Portal_Vaporwave_v01_6
+  - first:
+      213: -4048199867597646618
+    second: SMOL_Portal_Vaporwave_v01_7
+  - first:
+      213: -5138776382144992360
+    second: SMOL_Portal_Vaporwave_v01_8
+  - first:
+      213: 1226948531313803429
+    second: SMOL_Portal_Vaporwave_v01_9
+  - first:
+      213: -6207795179623273624
+    second: SMOL_Portal_Vaporwave_v01_10
+  - first:
+      213: 6667931534411078389
+    second: SMOL_Portal_Vaporwave_v01_11
+  - first:
+      213: -2181803010633558358
+    second: SMOL_Portal_Vaporwave_v01_12
+  - first:
+      213: -5612203509439404701
+    second: SMOL_Portal_Vaporwave_v01_13
+  - first:
+      213: 7699202813182183748
+    second: SMOL_Portal_Vaporwave_v01_14
+  - first:
+      213: -4874029727053143522
+    second: SMOL_Portal_Vaporwave_v01_15
+  - first:
+      213: -1215232679797486939
+    second: SMOL_Portal_Vaporwave_v01_16
+  - first:
+      213: -7630562016407546749
+    second: SMOL_Portal_Vaporwave_v01_17
+  - first:
+      213: 2684087090611675898
+    second: SMOL_Portal_Vaporwave_v01_18
+  - first:
+      213: -264438384943549843
+    second: SMOL_Portal_Vaporwave_v01_19
+  - first:
+      213: -1618075580548396961
+    second: SMOL_Portal_Vaporwave_v01_20
+  - first:
+      213: 5656071720491686380
+    second: SMOL_Portal_Vaporwave_v01_21
+  - first:
+      213: -984474980355844643
+    second: SMOL_Portal_Vaporwave_v01_22
+  - first:
+      213: 2804160037983135009
+    second: SMOL_Portal_Vaporwave_v01_23
+  - first:
+      213: -7022272195027757883
+    second: SMOL_Portal_Vaporwave_v01_24
+  - first:
+      213: -2418702086824011659
+    second: SMOL_Portal_Vaporwave_v01_25
+  - first:
+      213: -6866962696174902297
+    second: SMOL_Portal_Vaporwave_v01_26
+  - first:
+      213: -2236687113876814214
+    second: SMOL_Portal_Vaporwave_v01_27
+  - first:
+      213: 6501005081751154151
+    second: SMOL_Portal_Vaporwave_v01_28
+  - first:
+      213: -6604238132336958187
+    second: SMOL_Portal_Vaporwave_v01_29
+  - first:
+      213: 2352631049854945556
+    second: SMOL_Portal_Vaporwave_v01_30
+  - first:
+      213: -9138412338843813359
+    second: SMOL_Portal_Vaporwave_v01_31
+  - first:
+      213: -4437718060157729909
+    second: SMOL_Portal_Vaporwave_v01_32
+  - first:
+      213: 1723366269762105319
+    second: SMOL_Portal_Vaporwave_v01_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_0
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1708
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7b7362536d94210800000000000000
+      internalID: 1317819889745377188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_1
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1708
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668c7dc076137d090800000000000000
+      internalID: -8009879093588277146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_2
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1708
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888af4722d8c52610800000000000000
+      internalID: 1595902447900928136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_3
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1708
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938eaf595903eb150800000000000000
+      internalID: 5890198781671696441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_4
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1708
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d825af1fb3e5131d0800000000000000
+      internalID: -3372811034367995251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1367
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968bd40e3235451a0800000000000000
+      internalID: -6821736122007308183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_6
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1367
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68cd5158cb43b7c0800000000000000
+      internalID: -4056815515600041875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_7
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1367
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41f003ba7e1d7c0800000000000000
+      internalID: -4048199867597646618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_8
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1367
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ba41a5b166fa8b0800000000000000
+      internalID: -5138776382144992360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_9
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1367
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a085a6403ff60110800000000000000
+      internalID: 1226948531313803429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_10
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1367
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b2c28ac2b79d9a0800000000000000
+      internalID: -6207795179623273624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1026
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa923ff660498c50800000000000000
+      internalID: 6667931534411078389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1026
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa61f45b8bda8b1e0800000000000000
+      internalID: -2181803010633558358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_13
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1026
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365e9a494a27d12b0800000000000000
+      internalID: -5612203509439404701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_14
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1026
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449896d9a2019da60800000000000000
+      internalID: 7699202813182183748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_15
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1026
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12ad4679c7fb5cb0800000000000000
+      internalID: -4874029727053143522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_16
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1026
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa8939f050a22fe0800000000000000
+      internalID: -1215232679797486939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 685
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3849077464cca1690800000000000000
+      internalID: -7630562016407546749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_18
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 685
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2ee1eecfacf3520800000000000000
+      internalID: 2684087090611675898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_19
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 685
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d623670a0b6845cf0800000000000000
+      internalID: -264438384943549843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_20
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 685
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58cda915d07b89e0800000000000000
+      internalID: -1618075580548396961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_21
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 685
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce91a0c33476e7e40800000000000000
+      internalID: 5656071720491686380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_22
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 685
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd551a9a8317652f0800000000000000
+      internalID: -984474980355844643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 344
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125a45d82b06ae620800000000000000
+      internalID: 2804160037983135009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_24
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 344
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4944be4a0eb8e90800000000000000
+      internalID: -7022272195027757883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_25
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 344
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578db51544b0f6ed0800000000000000
+      internalID: -2418702086824011659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_26
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 344
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3e2a08fc5a3b0a0800000000000000
+      internalID: -6866962696174902297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_27
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 344
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76cdaf9be0b5f0e0800000000000000
+      internalID: -2236687113876814214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_28
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 344
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed69c49da5383a50800000000000000
+      internalID: 6501005081751154151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51567fdc8680954a0800000000000000
+      internalID: -6604238132336958187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 3
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419882e997936a020800000000000000
+      internalID: 2352631049854945556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_31
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 3
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11afa2c2566dd2180800000000000000
+      internalID: -9138412338843813359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_32
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 3
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8386f2bfee0a62c0800000000000000
+      internalID: -4437718060157729909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Portal_Vaporwave_v01_33
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 3
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef6f07dd70aae710800000000000000
+      internalID: 1723366269762105319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d741103b7bb49734ea983ee6d9a10c1c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

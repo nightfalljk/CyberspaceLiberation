@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 488c265ab1bf2d84aa1391aedbc442e7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sonic Advance
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9bdca8ae8fd4b0c4e8b0ebef2a7783ca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

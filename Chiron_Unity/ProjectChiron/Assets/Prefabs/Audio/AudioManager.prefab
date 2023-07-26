@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5560752142700792483
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2192151541131399422}
+  - component: {fileID: 6726764439536989380}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2192151541131399422
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5560752142700792483}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6726764439536989380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5560752142700792483}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d123cfc0f5e4b1d4a90076199dfdb7ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _persistent: 1
+  audioCustomSettings: {fileID: 11400000, guid: 05121a9e11c7efd4cb06f339408b73b6, type: 2}
+  otherSourcesAudioMixer: {fileID: 24100000, guid: 4ba9f00ed3c34a74ab74ba7ac984cd51, type: 2}
+  min_dB: -80
+  max_dB: 20
+  dBToLinNormalized:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 182.98817
+      tangentMode: 5
+      weightedMode: 2
+      inWeight: 0
+      outWeight: 0.0046916893
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  sounds:
+  - name: ThemeMusic
+    clip: {fileID: 8300000, guid: 54e149ed6587c09439951e64ad45685a, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    isMusic: 1
+    singleton: 1
+    startOffset: 0
+    source: {fileID: 0}
+    fadeVolume: 1
+  - name: Level1Music
+    clip: {fileID: 8300000, guid: 97b3c6a34e19aab4dabb379733d425de, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    isMusic: 1
+    singleton: 1
+    startOffset: 0
+    source: {fileID: 0}
+    fadeVolume: 1
+  - name: Level2Music
+    clip: {fileID: 8300000, guid: f1c7caa5cff486140adb5a54244361f7, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    isMusic: 1
+    singleton: 1
+    startOffset: 0
+    source: {fileID: 0}
+    fadeVolume: 1
+  - name: Level3Music
+    clip: {fileID: 8300000, guid: 75ebb4115c6ad5149adde04ad347c11c, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    isMusic: 1
+    singleton: 1
+    startOffset: 0
+    source: {fileID: 0}
+    fadeVolume: 1
+  - name: BossLevelMusic
+    clip: {fileID: 8300000, guid: 2b5b51cf587f66c428634061b2183c4f, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    isMusic: 1
+    singleton: 1
+    startOffset: 0
+    source: {fileID: 0}
+    fadeVolume: 1
+  - name: WinMusic
+    clip: {fileID: 8300000, guid: 5478fc3f7f04bf6478e0b15452fea5f4, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    isMusic: 1
+    singleton: 1
+    startOffset: 0
+    source: {fileID: 0}
+    fadeVolume: 1

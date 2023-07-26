@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: 645a166b986131448a165bc1d7e910fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8166833350359581129
+    second: SMOL_Shooter_Player_v01_0
+  - first:
+      213: -6681047865503829089
+    second: SMOL_Shooter_Player_v01_1
+  - first:
+      213: -1373363714284121215
+    second: SMOL_Shooter_Player_v01_2
+  - first:
+      213: 6771593887167482528
+    second: SMOL_Shooter_Player_v01_3
+  - first:
+      213: 8072965686998212408
+    second: SMOL_Shooter_Player_v01_4
+  - first:
+      213: 3547200944187186266
+    second: SMOL_Shooter_Player_v01_5
+  - first:
+      213: -1651954309647981877
+    second: SMOL_Shooter_Player_v01_6
+  - first:
+      213: -1672428979885555318
+    second: SMOL_Shooter_Player_v01_7
+  - first:
+      213: -1730501228860206205
+    second: SMOL_Shooter_Player_v01_8
+  - first:
+      213: 5674173071246701291
+    second: SMOL_Shooter_Player_v01_9
+  - first:
+      213: -765906949713080031
+    second: SMOL_Shooter_Player_v01_10
+  - first:
+      213: 2839651421303140691
+    second: SMOL_Shooter_Player_v01_11
+  - first:
+      213: -8840824636477696209
+    second: SMOL_Shooter_Player_v01_12
+  - first:
+      213: -4491200918580078055
+    second: SMOL_Shooter_Player_v01_13
+  - first:
+      213: 6785839832638550875
+    second: SMOL_Shooter_Player_v01_14
+  - first:
+      213: -149633368981165056
+    second: SMOL_Shooter_Player_v01_15
+  - first:
+      213: -5509313896471556090
+    second: SMOL_Shooter_Player_v01_16
+  - first:
+      213: -7004601769554226293
+    second: SMOL_Shooter_Player_v01_17
+  - first:
+      213: 3241084635328423643
+    second: SMOL_Shooter_Player_v01_18
+  - first:
+      213: -3077146385864830818
+    second: SMOL_Shooter_Player_v01_19
+  - first:
+      213: -4279939378183112501
+    second: SMOL_Shooter_Player_v01_20
+  - first:
+      213: 7088509158655596750
+    second: SMOL_Shooter_Player_v01_21
+  - first:
+      213: 3709203581069406179
+    second: SMOL_Shooter_Player_v01_22
+  - first:
+      213: -183087274907565298
+    second: SMOL_Shooter_Player_v01_23
+  - first:
+      213: 6240690279865605072
+    second: SMOL_Shooter_Player_v01_24
+  - first:
+      213: 7947016577775280751
+    second: SMOL_Shooter_Player_v01_25
+  - first:
+      213: -2825321087779022253
+    second: SMOL_Shooter_Player_v01_26
+  - first:
+      213: -3111969559343267945
+    second: SMOL_Shooter_Player_v01_27
+  - first:
+      213: -308378229234359452
+    second: SMOL_Shooter_Player_v01_28
+  - first:
+      213: -4359816313563646067
+    second: SMOL_Shooter_Player_v01_29
+  - first:
+      213: -7173868451132598230
+    second: SMOL_Shooter_Player_v01_30
+  - first:
+      213: -6470812406098609611
+    second: SMOL_Shooter_Player_v01_31
+  - first:
+      213: 7321109526110671676
+    second: SMOL_Shooter_Player_v01_32
+  - first:
+      213: 1884945752752181838
+    second: SMOL_Shooter_Player_v01_33
+  - first:
+      213: -754305554368642058
+    second: SMOL_Shooter_Player_v01_34
+  - first:
+      213: -756520577825230154
+    second: SMOL_Shooter_Player_v01_35
+  - first:
+      213: -4939508055125479979
+    second: SMOL_Shooter_Player_v01_36
+  - first:
+      213: -6781602986269145520
+    second: SMOL_Shooter_Player_v01_37
+  - first:
+      213: -257568239647299486
+    second: SMOL_Shooter_Player_v01_38
+  - first:
+      213: -5764881732430542443
+    second: SMOL_Shooter_Player_v01_39
+  - first:
+      213: 6756280068740803015
+    second: SMOL_Shooter_Player_v01_40
+  - first:
+      213: -9111656739031583812
+    second: SMOL_Shooter_Player_v01_41
+  - first:
+      213: -6581260193082134012
+    second: SMOL_Shooter_Player_v01_42
+  - first:
+      213: -1172562459048457475
+    second: SMOL_Shooter_Player_v01_43
+  - first:
+      213: 460420722350032554
+    second: SMOL_Shooter_Player_v01_44
+  - first:
+      213: 4441581816637851067
+    second: SMOL_Shooter_Player_v01_45
+  - first:
+      213: 337692424679624834
+    second: SMOL_Shooter_Player_v01_46
+  - first:
+      213: -1898227499688271874
+    second: SMOL_Shooter_Player_v01_47
+  - first:
+      213: -3835585333536479117
+    second: SMOL_Shooter_Player_v01_48
+  - first:
+      213: -616053790996652065
+    second: SMOL_Shooter_Player_v01_49
+  - first:
+      213: -3269408936685414240
+    second: SMOL_Shooter_Player_v01_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1838
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c10ff399ab665170800000000000000
+      internalID: 8166833350359581129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1838
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9333413d562843a0800000000000000
+      internalID: -6681047865503829089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1838
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1831fae6af4d0fce0800000000000000
+      internalID: -1373363714284121215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_3
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1838
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa03df43c889fd50800000000000000
+      internalID: 6771593887167482528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_4
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1838
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f1279158fe80070800000000000000
+      internalID: 8072965686998212408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_5
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1838
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c153107703a3130800000000000000
+      internalID: 3547200944187186266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_6
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1838
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2a14cce441319e0800000000000000
+      internalID: -1651954309647981877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1583
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a814ad524b65ac8e0800000000000000
+      internalID: -1672428979885555318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1583
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383196a0d460cf7e0800000000000000
+      internalID: -1730501228860206205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_9
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1583
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be23fb16856bebe40800000000000000
+      internalID: 5674173071246701291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_10
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1583
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121595befa3fe55f0800000000000000
+      internalID: -765906949713080031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_11
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1583
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f4bc2ce7786720800000000000000
+      internalID: 2839651421303140691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_12
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1583
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27993575d41f4580800000000000000
+      internalID: -8840824636477696209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_13
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1583
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a50295f8c0ca1c0800000000000000
+      internalID: -4491200918580078055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1328
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53fd17ff552c2e50800000000000000
+      internalID: 6785839832638550875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1328
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c25536e356cedf0800000000000000
+      internalID: -149633368981165056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_16
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1328
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60090b4633cfa83b0800000000000000
+      internalID: -5509313896471556090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_17
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1328
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83d5a47dc7aace90800000000000000
+      internalID: -7004601769554226293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_18
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1328
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd62ab7cd45aafc20800000000000000
+      internalID: 3241084635328423643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_19
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1328
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9056ac5aa7cb45d0800000000000000
+      internalID: -3077146385864830818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_20
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1328
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc87037cfc99a94c0800000000000000
+      internalID: -4279939378183112501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1073
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec815c4f5817f5260800000000000000
+      internalID: 7088509158655596750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1073
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efaf39310db97330800000000000000
+      internalID: 3709203581069406179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_23
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1073
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e038d30f71b857df0800000000000000
+      internalID: -183087274907565298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_24
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1073
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db5f94beb26b9650800000000000000
+      internalID: 6240690279865605072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_25
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1073
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62af6ee879794e60800000000000000
+      internalID: 7947016577775280751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_26
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1073
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ad28a90717ac8d0800000000000000
+      internalID: -2825321087779022253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_27
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1073
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ff3877c2010d4d0800000000000000
+      internalID: -3111969559343267945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 818
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463a50662ab68bbf0800000000000000
+      internalID: -308378229234359452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 818
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87f5108922de73c0800000000000000
+      internalID: -4359816313563646067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_30
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 818
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a281cd807ac417c90800000000000000
+      internalID: -7173868451132598230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_31
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 818
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a3d46866e0336a0800000000000000
+      internalID: -6470812406098609611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_32
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 818
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c331e89335ec99560800000000000000
+      internalID: 7321109526110671676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_33
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 818
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42dcaddc2ca82a10800000000000000
+      internalID: 1884945752752181838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_34
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 818
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c0c3481b2885f0800000000000000
+      internalID: -754305554368642058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 563
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2347dea8c4085f0800000000000000
+      internalID: -756520577825230154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 563
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dda0113897537bb0800000000000000
+      internalID: -4939508055125479979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_37
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 563
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05603b3b308e2e1a0800000000000000
+      internalID: -6781602986269145520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_38
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 563
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268666afc0fec6cf0800000000000000
+      internalID: -257568239647299486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_39
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 563
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599c656ab960fffa0800000000000000
+      internalID: -5764881732430542443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_40
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 563
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9e85c1de023cd50800000000000000
+      internalID: 6756280068740803015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_41
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 563
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb37ab2b874ec8180800000000000000
+      internalID: -9111656739031583812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 308
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402bbe039baaaa4a0800000000000000
+      internalID: -6581260193082134012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 308
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa457fe7a83abfe0800000000000000
+      internalID: -1172562459048457475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_44
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 308
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa607e2253eb36600800000000000000
+      internalID: 460420722350032554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_45
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 308
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb58885312ba3ad30800000000000000
+      internalID: 4441581816637851067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_46
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 308
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2809e589879bfa400800000000000000
+      internalID: 337692424679624834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_47
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 308
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effd332752428a5e0800000000000000
+      internalID: -1898227499688271874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_48
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 308
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3782cd0067345cac0800000000000000
+      internalID: -3835585333536479117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 53
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf9c1157565377f0800000000000000
+      internalID: -616053790996652065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Player_v01_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 53
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8d067e4e9b0a2d0800000000000000
+      internalID: -3269408936685414240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

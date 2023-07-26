@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a09c7d922758484f84914e31dffe2b8, type: 3}
+  m_Name: Left
+  m_EditorClassIdentifier: 
+  outrun: {fileID: 2100000, guid: 7e6784d8c624a6043aaa0e07deb1303d, type: 2}
+  vaporWave: {fileID: 2100000, guid: 4d37510924d810d4f8a03a52b1358667, type: 2}
+  gameObject: {fileID: 9084075518771053781, guid: cc417179e18cd3f469d80b64f7b164de, type: 3}

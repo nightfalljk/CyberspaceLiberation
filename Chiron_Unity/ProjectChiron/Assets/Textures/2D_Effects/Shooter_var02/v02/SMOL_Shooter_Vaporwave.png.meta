@@ -1,0 +1,2076 @@
+fileFormatVersion: 2
+guid: 08b7389e47d0e5b4091acd677660539a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3061491055021462509
+    second: SMOL_Shooter_Vaporwave_0
+  - first:
+      213: -6056075262405631691
+    second: SMOL_Shooter_Vaporwave_1
+  - first:
+      213: -8763799090237671149
+    second: SMOL_Shooter_Vaporwave_2
+  - first:
+      213: -9122709548912810875
+    second: SMOL_Shooter_Vaporwave_3
+  - first:
+      213: -7943909479521360771
+    second: SMOL_Shooter_Vaporwave_4
+  - first:
+      213: 7023963684182987400
+    second: SMOL_Shooter_Vaporwave_5
+  - first:
+      213: 2492338190202288660
+    second: SMOL_Shooter_Vaporwave_6
+  - first:
+      213: 2510292143554877719
+    second: SMOL_Shooter_Vaporwave_7
+  - first:
+      213: 1187178738488844931
+    second: SMOL_Shooter_Vaporwave_8
+  - first:
+      213: -2186521492409454198
+    second: SMOL_Shooter_Vaporwave_9
+  - first:
+      213: -7748509676536135395
+    second: SMOL_Shooter_Vaporwave_10
+  - first:
+      213: -2265935662192778556
+    second: SMOL_Shooter_Vaporwave_11
+  - first:
+      213: 5231714741732960305
+    second: SMOL_Shooter_Vaporwave_12
+  - first:
+      213: -1383263761786836964
+    second: SMOL_Shooter_Vaporwave_13
+  - first:
+      213: 8020844759609903873
+    second: SMOL_Shooter_Vaporwave_14
+  - first:
+      213: -6922102858544267651
+    second: SMOL_Shooter_Vaporwave_15
+  - first:
+      213: -3915564868926909177
+    second: SMOL_Shooter_Vaporwave_16
+  - first:
+      213: 7261010782848601224
+    second: SMOL_Shooter_Vaporwave_17
+  - first:
+      213: -4143229945324997437
+    second: SMOL_Shooter_Vaporwave_18
+  - first:
+      213: -4829801048927387338
+    second: SMOL_Shooter_Vaporwave_19
+  - first:
+      213: 494427835161949698
+    second: SMOL_Shooter_Vaporwave_20
+  - first:
+      213: -3224052575880903957
+    second: SMOL_Shooter_Vaporwave_21
+  - first:
+      213: -5706389055960880457
+    second: SMOL_Shooter_Vaporwave_22
+  - first:
+      213: 5491753933818667727
+    second: SMOL_Shooter_Vaporwave_23
+  - first:
+      213: 8127915663654542429
+    second: SMOL_Shooter_Vaporwave_24
+  - first:
+      213: 4131495091353843563
+    second: SMOL_Shooter_Vaporwave_25
+  - first:
+      213: -4957564531597166821
+    second: SMOL_Shooter_Vaporwave_26
+  - first:
+      213: -4969617425020062735
+    second: SMOL_Shooter_Vaporwave_27
+  - first:
+      213: -5465048827208083579
+    second: SMOL_Shooter_Vaporwave_28
+  - first:
+      213: -8909171123909867300
+    second: SMOL_Shooter_Vaporwave_29
+  - first:
+      213: 561301772595179645
+    second: SMOL_Shooter_Vaporwave_30
+  - first:
+      213: 8611294578120235437
+    second: SMOL_Shooter_Vaporwave_31
+  - first:
+      213: -3381577197741003572
+    second: SMOL_Shooter_Vaporwave_32
+  - first:
+      213: -8829785751501439805
+    second: SMOL_Shooter_Vaporwave_33
+  - first:
+      213: -7100563970187904828
+    second: SMOL_Shooter_Vaporwave_34
+  - first:
+      213: 7626992337435457169
+    second: SMOL_Shooter_Vaporwave_35
+  - first:
+      213: -8744694765181969297
+    second: SMOL_Shooter_Vaporwave_36
+  - first:
+      213: -2736589190195116244
+    second: SMOL_Shooter_Vaporwave_37
+  - first:
+      213: -6720352239529872305
+    second: SMOL_Shooter_Vaporwave_38
+  - first:
+      213: -2684483677595213422
+    second: SMOL_Shooter_Vaporwave_39
+  - first:
+      213: 8069263051461148815
+    second: SMOL_Shooter_Vaporwave_40
+  - first:
+      213: -3807743924957567368
+    second: SMOL_Shooter_Vaporwave_41
+  - first:
+      213: 7010933247928210344
+    second: SMOL_Shooter_Vaporwave_42
+  - first:
+      213: 4936209618804875717
+    second: SMOL_Shooter_Vaporwave_43
+  - first:
+      213: -216414697577860382
+    second: SMOL_Shooter_Vaporwave_44
+  - first:
+      213: -8980848442712146940
+    second: SMOL_Shooter_Vaporwave_45
+  - first:
+      213: 7485221768556528605
+    second: SMOL_Shooter_Vaporwave_46
+  - first:
+      213: -403393541004633668
+    second: SMOL_Shooter_Vaporwave_47
+  - first:
+      213: 1161675071575026486
+    second: SMOL_Shooter_Vaporwave_48
+  - first:
+      213: -3004385125670567087
+    second: SMOL_Shooter_Vaporwave_49
+  - first:
+      213: -111104591051362656
+    second: SMOL_Shooter_Vaporwave_50
+  - first:
+      213: 6168520326709074587
+    second: SMOL_Shooter_Vaporwave_51
+  - first:
+      213: 2812069785742878223
+    second: SMOL_Shooter_Vaporwave_52
+  - first:
+      213: -6193755380009042318
+    second: SMOL_Shooter_Vaporwave_53
+  - first:
+      213: 5168645358523603546
+    second: SMOL_Shooter_Vaporwave_54
+  - first:
+      213: 7437868487559161206
+    second: SMOL_Shooter_Vaporwave_55
+  - first:
+      213: -7257844628945341765
+    second: SMOL_Shooter_Vaporwave_56
+  - first:
+      213: -3637143082076247338
+    second: SMOL_Shooter_Vaporwave_57
+  - first:
+      213: -5784796443097819618
+    second: SMOL_Shooter_Vaporwave_58
+  - first:
+      213: 407564413429910188
+    second: SMOL_Shooter_Vaporwave_59
+  - first:
+      213: -5566328069868745323
+    second: SMOL_Shooter_Vaporwave_60
+  - first:
+      213: 7112067823828720585
+    second: SMOL_Shooter_Vaporwave_61
+  - first:
+      213: 3008134992768954637
+    second: SMOL_Shooter_Vaporwave_62
+  - first:
+      213: -3526112185158175403
+    second: SMOL_Shooter_Vaporwave_63
+  - first:
+      213: 9134670088463888902
+    second: SMOL_Shooter_Vaporwave_64
+  - first:
+      213: -7382239270582718435
+    second: SMOL_Shooter_Vaporwave_65
+  - first:
+      213: 3831443359854528826
+    second: SMOL_Shooter_Vaporwave_66
+  - first:
+      213: 1932956333909672261
+    second: SMOL_Shooter_Vaporwave_67
+  - first:
+      213: -587422933921879084
+    second: SMOL_Shooter_Vaporwave_68
+  - first:
+      213: -2675933481847421495
+    second: SMOL_Shooter_Vaporwave_69
+  - first:
+      213: -868766233145921254
+    second: SMOL_Shooter_Vaporwave_70
+  - first:
+      213: 6207879743243222787
+    second: SMOL_Shooter_Vaporwave_71
+  - first:
+      213: -3043243647669585575
+    second: SMOL_Shooter_Vaporwave_72
+  - first:
+      213: 973124212939359695
+    second: SMOL_Shooter_Vaporwave_73
+  - first:
+      213: 7587197785504747228
+    second: SMOL_Shooter_Vaporwave_74
+  - first:
+      213: -5713451472425249667
+    second: SMOL_Shooter_Vaporwave_75
+  - first:
+      213: 8980187849036735251
+    second: SMOL_Shooter_Vaporwave_76
+  - first:
+      213: 6163870303513221193
+    second: SMOL_Shooter_Vaporwave_77
+  - first:
+      213: 9127527339076272834
+    second: SMOL_Shooter_Vaporwave_78
+  - first:
+      213: -5671468734280190499
+    second: SMOL_Shooter_Vaporwave_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ce86e1b166385d0800000000000000
+      internalID: -3061491055021462509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5312843a2af74fba0800000000000000
+      internalID: -6056075262405631691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319fd77f82bb06680800000000000000
+      internalID: -8763799090237671149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_3
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584ecfbdfff956180800000000000000
+      internalID: -9122709548912810875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_4
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d746541ca6091c190800000000000000
+      internalID: -7943909479521360771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88298f691c12a7160800000000000000
+      internalID: 7023963684182987400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_6
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ab5270160969220800000000000000
+      internalID: 2492338190202288660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_7
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719da0b876956d220800000000000000
+      internalID: 2510292143554877719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3822680d5c4b97010800000000000000
+      internalID: 1187178738488844931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817d2f894ae7a1e0800000000000000
+      internalID: -2186521492409454198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d110367a083c77490800000000000000
+      internalID: -7748509676536135395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22c1b4587cd80e0800000000000000
+      internalID: -2265935662192778556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_12
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138ea2bb6d8ca9840800000000000000
+      internalID: 5231714741732960305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_13
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18660000f8adcce0800000000000000
+      internalID: -1383263761786836964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_14
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b0a1700d3cf4f60800000000000000
+      internalID: 8020844759609903873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_15
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eb0c10020cfef90800000000000000
+      internalID: -6922102858544267651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_16
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705dc9c4f7e19a9c0800000000000000
+      internalID: -3915564868926909177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cc8f526da44c460800000000000000
+      internalID: 7261010782848601224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c47426015a4086c0800000000000000
+      internalID: -4143229945324997437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_19
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631cfde098919fcb0800000000000000
+      internalID: -4829801048927387338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_20
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206b4e91f7f8cd600800000000000000
+      internalID: 494427835161949698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_21
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be28f65934dd143d0800000000000000
+      internalID: -3224052575880903957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_22
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba66492365dec0b0800000000000000
+      internalID: -5706389055960880457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_23
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2ad133b11a63c40800000000000000
+      internalID: 5491753933818667727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_24
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c56788b382cc070800000000000000
+      internalID: 8127915663654542429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_25
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b677a6f55e4065930800000000000000
+      internalID: 4131495091353843563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1733172351333bb0800000000000000
+      internalID: -4957564531597166821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f37618384f580bb0800000000000000
+      internalID: -4969617425020062735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587d816fb0f3824b0800000000000000
+      internalID: -5465048827208083579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_29
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd84f2cc0144c5480800000000000000
+      internalID: -8909171123909867300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_30
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70355ffcf42ac700800000000000000
+      internalID: 561301772595179645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_31
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da99a115bc6718770800000000000000
+      internalID: 8611294578120235437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_32
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc261c74793211d0800000000000000
+      internalID: -3381577197741003572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_33
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc73f624ac467580800000000000000
+      internalID: -8829785751501439805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_34
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8330480bab57d90800000000000000
+      internalID: -7100563970187904828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19677711f1588d960800000000000000
+      internalID: 7626992337435457169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c5c14417a94a680800000000000000
+      internalID: -8744694765181969297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c270f3e61aea50ad0800000000000000
+      internalID: -2736589190195116244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_38
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44325d7e338cb2a0800000000000000
+      internalID: -6720352239529872305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_39
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2916a97715ccebad0800000000000000
+      internalID: -2684483677595213422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_40
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80c6851ef7cbff60800000000000000
+      internalID: 8069263051461148815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_41
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876a045131d282bc0800000000000000
+      internalID: -3807743924957567368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_42
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39cbab4a6db4160800000000000000
+      internalID: 7010933247928210344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_43
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c12bb1ce70f08440800000000000000
+      internalID: 4936209618804875717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2b2baaaf32ffcf0800000000000000
+      internalID: -216414697577860382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_45
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cb5868ced9d5380800000000000000
+      internalID: -8980848442712146940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd345d34a89d0e760800000000000000
+      internalID: 7485221768556528605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_47
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb95bb336bbd66af0800000000000000
+      internalID: -403393541004633668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_48
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63be7a1a2591f1010800000000000000
+      internalID: 1161675071575026486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_49
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15340f765a74e46d0800000000000000
+      internalID: -3004385125670567087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_50
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee77d86f6457ef0800000000000000
+      internalID: -111104591051362656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_51
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a554f0e8cfa9550800000000000000
+      internalID: 6168520326709074587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_52
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0620d6329a760720800000000000000
+      internalID: 2812069785742878223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e75ec3c4c5b0aa0800000000000000
+      internalID: -6193755380009042318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_54
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a55c4a197bab740800000000000000
+      internalID: 5168645358523603546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_55
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675290f5bfd983760800000000000000
+      internalID: 7437868487559161206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_56
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27cb083c4f64b90800000000000000
+      internalID: -7257844628945341765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_57
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da639323a5468dc0800000000000000
+      internalID: -3637143082076247338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_58
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16163fb84648bfa0800000000000000
+      internalID: -5784796443097819618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa8495bca5f7a500800000000000000
+      internalID: 407564413429910188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_60
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d0034bc1e60c2b0800000000000000
+      internalID: -5566328069868745323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_61
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbdbc1210423b260800000000000000
+      internalID: 7112067823828720585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d017a6096da0fb920800000000000000
+      internalID: 3008134992768954637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_63
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555787556abb01fc0800000000000000
+      internalID: -3526112185158175403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_64
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602b6434c0ed4ce70800000000000000
+      internalID: 9134670088463888902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_65
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d107af50f740d8990800000000000000
+      internalID: -7382239270582718435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_66
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3988299f650c2530800000000000000
+      internalID: 3831443359854528826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_67
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54107016b8d33da10800000000000000
+      internalID: 1932956333909672261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_68
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db2ba234fd09d7f0800000000000000
+      internalID: -587422933921879084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_69
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c509eb0dac2ddad0800000000000000
+      internalID: -2675933481847421495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_70
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11bb70c6b581f3f0800000000000000
+      internalID: -868766233145921254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ffa585cb1d62650800000000000000
+      internalID: 6207879743243222787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_72
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959b0b7b60a34c5d0800000000000000
+      internalID: -3043243647669585575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_73
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5059ad05b318d00800000000000000
+      internalID: 973124212939359695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_74
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde04adef242b4960800000000000000
+      internalID: 7587197785504747228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_75
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7419a0382eb5b0b0800000000000000
+      internalID: -5713451472425249667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_76
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3132d16054900ac70800000000000000
+      internalID: 8980187849036735251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_77
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9481c7a22677a8550800000000000000
+      internalID: 6163870303513221193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_78
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2ce4351cd7bae70800000000000000
+      internalID: 9127527339076272834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Vaporwave_79
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5be722c35ea41b0800000000000000
+      internalID: -5671468734280190499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 739bc642c4082fe499d0bae4cfea15cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

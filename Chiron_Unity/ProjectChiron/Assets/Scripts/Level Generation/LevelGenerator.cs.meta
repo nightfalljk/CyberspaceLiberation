@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 056118fdeb97f9b449d3e1899fa0defc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileMap: {instanceID: 0}
+  - ruleTileBase: {fileID: 11400000, guid: 009314fd7c33f9e48859523c8fbac060, type: 2}
+  - ruleTileWall: {fileID: 11400000, guid: 03c65b44fbb26504eadca28baf2fc29a, type: 2}
+  - ruleTileDoor: {fileID: 11400000, guid: 5628c50965a467c4c859027daade3516, type: 2}
+  - ruleTileObstacle: {fileID: 11400000, guid: ef145e4407e4b4f4fac0b3468a68fff8, type: 2}
+  - gridLayout: {fileID: 1313563338572077021, guid: 6c92076e57e37d54cabb0f9b4bb4d718, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

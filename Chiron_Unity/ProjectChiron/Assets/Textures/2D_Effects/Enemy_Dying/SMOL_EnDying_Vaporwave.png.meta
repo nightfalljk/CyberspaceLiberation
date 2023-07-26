@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: ae8ea021c593e7b41a747d4787f8e846
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3129410730895576597
+    second: SMOL_EnDying_Vaporwave_0
+  - first:
+      213: 680684183427963398
+    second: SMOL_EnDying_Vaporwave_1
+  - first:
+      213: 4093270092611803921
+    second: SMOL_EnDying_Vaporwave_2
+  - first:
+      213: -7589305183300818160
+    second: SMOL_EnDying_Vaporwave_3
+  - first:
+      213: 6796912254442379159
+    second: SMOL_EnDying_Vaporwave_4
+  - first:
+      213: -3624658050519549692
+    second: SMOL_EnDying_Vaporwave_5
+  - first:
+      213: -433135062951553137
+    second: SMOL_EnDying_Vaporwave_6
+  - first:
+      213: -7215127095897344998
+    second: SMOL_EnDying_Vaporwave_7
+  - first:
+      213: -4914908546491513032
+    second: SMOL_EnDying_Vaporwave_8
+  - first:
+      213: -1570409504108581808
+    second: SMOL_EnDying_Vaporwave_9
+  - first:
+      213: -6915085144048919940
+    second: SMOL_EnDying_Vaporwave_10
+  - first:
+      213: 7144420682340022048
+    second: SMOL_EnDying_Vaporwave_11
+  - first:
+      213: 1833358541646296326
+    second: SMOL_EnDying_Vaporwave_12
+  - first:
+      213: 1031856376820613620
+    second: SMOL_EnDying_Vaporwave_13
+  - first:
+      213: -2320132459125439547
+    second: SMOL_EnDying_Vaporwave_14
+  - first:
+      213: 6387093175277061174
+    second: SMOL_EnDying_Vaporwave_15
+  - first:
+      213: 4610700715919181191
+    second: SMOL_EnDying_Vaporwave_16
+  - first:
+      213: -2480227430490404494
+    second: SMOL_EnDying_Vaporwave_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_0
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1638.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be17ca445891294d0800000000000000
+      internalID: -3129410730895576597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1638.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a537d88a6427900800000000000000
+      internalID: 680684183427963398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1638.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b5bdf46773ec830800000000000000
+      internalID: 4093270092611803921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1229.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01be259452f5da690800000000000000
+      internalID: -7589305183300818160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1229.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797998f0fab735e50800000000000000
+      internalID: 6796912254442379159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1229.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409b58215b0a2bdc0800000000000000
+      internalID: -3624658050519549692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1229.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87910184f13df9f0800000000000000
+      internalID: -433135062951553137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a143eb73228bedb90800000000000000
+      internalID: -7215127095897344998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 820.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83787de97bcbacbb0800000000000000
+      internalID: -4914908546491513032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 820.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ce5bb50e8c43ae0800000000000000
+      internalID: -1570409504108581808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_10
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 820.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a126df2bea800a0800000000000000
+      internalID: -6915085144048919940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027b4d002c4162360800000000000000
+      internalID: 7144420682340022048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 411.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60571cc41e5617910800000000000000
+      internalID: 1833358541646296326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 411.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f14d9f58e3e15e00800000000000000
+      internalID: 1031856376820613620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 411.4
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c389fd22db3dcfd0800000000000000
+      internalID: -2320132459125439547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.399994
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63406b3176383a850800000000000000
+      internalID: 6387093175277061174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2.399994
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78580026fdf7cff30800000000000000
+      internalID: 4610700715919181191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_EnDying_Vaporwave_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2.399994
+        width: 512
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2798073fa46749dd0800000000000000
+      internalID: -2480227430490404494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 007eb940a53747b45bb2296699a92f46
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

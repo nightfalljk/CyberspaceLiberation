@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5136416306490996659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5136416306490996658}
+  - component: {fileID: 3330121410454085218}
+  m_Layer: 0
+  m_Name: ProgressionSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5136416306490996658
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5136416306490996659}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.832938, y: 0.7305356, z: 3.474637}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3330121410454085218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5136416306490996659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff8e5b53244c2046a10f270446bc8b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerConfig: {fileID: 11400000, guid: 8e0b852bddf5a7d4bb7b9de0e9b1808f, type: 2}
+  playerWeaponConfig: {fileID: 11400000, guid: 6659c5c4e02889b4d904c5864545f25e, type: 2}
+  progressionConfig: {fileID: 11400000, guid: 9c78aa830c66cb143aff1f3c5b09f277, type: 2}
+  originalDashConfig: {fileID: 11400000, guid: 418e95444f69036428be10180d3056fe, type: 2}
+  originalTeleportConfig: {fileID: 11400000, guid: 329107d094bdda64eb8e512ae6eeb5ce, type: 2}
+  originalWeaponBoostConfig: {fileID: 11400000, guid: 55c6816e6b98d7d448cc8429b2174c96, type: 2}
+  originalSecondLifeConfig: {fileID: 11400000, guid: 258514e55049b9d4985a3fb9c63f932a, type: 2}
+  originalSlowFieldConfig: {fileID: 11400000, guid: 38eb736e65463af41baa33612eaf23f8, type: 2}
+  originalHackConfig: {fileID: 11400000, guid: f8aca2b5176454248a5a516e6c30f1be, type: 2}

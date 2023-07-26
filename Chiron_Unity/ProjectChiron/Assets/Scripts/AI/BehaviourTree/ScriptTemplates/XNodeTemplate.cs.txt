@@ -1,0 +1,50 @@
+﻿
+public class #SCRIPTNAME# : XNodeLeaf {
+
+    private void Reset()
+	{
+		name = "+Rename+";
+	}
+
+	protected override BTNode CreateBtNodeAndNext(BehaviourTree bt)
+    {
+        btNode = new BT_Change(bt);
+        OnWriteValuesToBTNode();
+        return btNode;
+    }
+
+    public override void OnWriteValuesToBTNode()
+    {
+        BT_Change bT_Change = btNode as BT_Change;
+    }
+
+    protected override bool CheckForNodeChanges()
+    {
+        bool change = false;
+        //Check for value change of properties
+        return change;
+    }
+    
+    protected override bool OnCheckForConfigChanges()
+    {
+        bool change = false;
+        //Check for value change of properties
+        return change;
+    }
+    
+    public override void OnLoadEntity(Entity entity)
+    {
+        base.OnLoadEntity(entity);
+        if (entity == null)
+        {
+            //SetDefault
+            return;
+        }
+        //Value = entity.GetParameter<float>(ValueName);
+    }
+    
+    protected override void OnWriteConfigValues()
+    {
+        //entity.SetParameter(ValueName, Value);
+    }
+}

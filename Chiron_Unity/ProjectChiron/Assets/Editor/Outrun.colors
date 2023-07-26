@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Outrun
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: 
+    m_Color: {r: 0.79910296, g: 0.02415763, b: 0.2422812, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.6795426, g: 0.3967553, b: 0.61720675, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.088655606, g: 0.022173883, b: 0.23074007, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.03071345, g: 0.036889452, b: 0.2581829, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.043735042, g: 0.50888145, b: 0.8069525, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.90466136, g: 0.50888145, b: 0.046665095, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.9473069, g: 0.8549928, b: 0.22696589, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.012286487, g: 0.00699541, b: 0.029556843, a: 1}

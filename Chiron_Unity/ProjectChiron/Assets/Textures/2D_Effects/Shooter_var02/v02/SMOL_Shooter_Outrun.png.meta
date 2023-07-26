@@ -1,0 +1,2076 @@
+fileFormatVersion: 2
+guid: 450d91b6f7b6f9a429fc5f482fc7d361
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6864655670797082184
+    second: SMOL_Shooter_Outrun_0
+  - first:
+      213: 8333326763721437030
+    second: SMOL_Shooter_Outrun_1
+  - first:
+      213: -6542393838120357208
+    second: SMOL_Shooter_Outrun_2
+  - first:
+      213: -406629930007117970
+    second: SMOL_Shooter_Outrun_3
+  - first:
+      213: -1374365255553507897
+    second: SMOL_Shooter_Outrun_4
+  - first:
+      213: 3211700915507185129
+    second: SMOL_Shooter_Outrun_5
+  - first:
+      213: 6802113544590824951
+    second: SMOL_Shooter_Outrun_6
+  - first:
+      213: 3298670941131101182
+    second: SMOL_Shooter_Outrun_7
+  - first:
+      213: -5127102088365064085
+    second: SMOL_Shooter_Outrun_8
+  - first:
+      213: -4088883373206595638
+    second: SMOL_Shooter_Outrun_9
+  - first:
+      213: 2850968123358983394
+    second: SMOL_Shooter_Outrun_10
+  - first:
+      213: 6676060894308543340
+    second: SMOL_Shooter_Outrun_11
+  - first:
+      213: -4686322775700804430
+    second: SMOL_Shooter_Outrun_12
+  - first:
+      213: -4112570743891442278
+    second: SMOL_Shooter_Outrun_13
+  - first:
+      213: 7484604362923240814
+    second: SMOL_Shooter_Outrun_14
+  - first:
+      213: -4664646489055157525
+    second: SMOL_Shooter_Outrun_15
+  - first:
+      213: 3337776470454469986
+    second: SMOL_Shooter_Outrun_16
+  - first:
+      213: 6913275106743996428
+    second: SMOL_Shooter_Outrun_17
+  - first:
+      213: -4015865381465381034
+    second: SMOL_Shooter_Outrun_18
+  - first:
+      213: 4091492571739716382
+    second: SMOL_Shooter_Outrun_19
+  - first:
+      213: -8091251299988067385
+    second: SMOL_Shooter_Outrun_20
+  - first:
+      213: 599289926226155202
+    second: SMOL_Shooter_Outrun_21
+  - first:
+      213: -8043374133654007927
+    second: SMOL_Shooter_Outrun_22
+  - first:
+      213: 7773334427115213452
+    second: SMOL_Shooter_Outrun_23
+  - first:
+      213: -2255399396858104677
+    second: SMOL_Shooter_Outrun_24
+  - first:
+      213: -5259050596371503720
+    second: SMOL_Shooter_Outrun_25
+  - first:
+      213: 1664985916578386844
+    second: SMOL_Shooter_Outrun_26
+  - first:
+      213: 3956943443600447974
+    second: SMOL_Shooter_Outrun_27
+  - first:
+      213: 1415102545317997024
+    second: SMOL_Shooter_Outrun_28
+  - first:
+      213: -4286113533492218487
+    second: SMOL_Shooter_Outrun_29
+  - first:
+      213: 6652656980774831183
+    second: SMOL_Shooter_Outrun_30
+  - first:
+      213: 7642916852643278221
+    second: SMOL_Shooter_Outrun_31
+  - first:
+      213: -5081989454100537924
+    second: SMOL_Shooter_Outrun_32
+  - first:
+      213: 7430438989698976806
+    second: SMOL_Shooter_Outrun_33
+  - first:
+      213: -188969725525451802
+    second: SMOL_Shooter_Outrun_34
+  - first:
+      213: -8804470097322162283
+    second: SMOL_Shooter_Outrun_35
+  - first:
+      213: -3217510348174777057
+    second: SMOL_Shooter_Outrun_36
+  - first:
+      213: 1359770025294556216
+    second: SMOL_Shooter_Outrun_37
+  - first:
+      213: 4554182152012187114
+    second: SMOL_Shooter_Outrun_38
+  - first:
+      213: -7363609500321772131
+    second: SMOL_Shooter_Outrun_39
+  - first:
+      213: -6356344210109673260
+    second: SMOL_Shooter_Outrun_40
+  - first:
+      213: 3109633514276887485
+    second: SMOL_Shooter_Outrun_41
+  - first:
+      213: -2163023442663230846
+    second: SMOL_Shooter_Outrun_42
+  - first:
+      213: 8444435237519755524
+    second: SMOL_Shooter_Outrun_43
+  - first:
+      213: -8025357447221065950
+    second: SMOL_Shooter_Outrun_44
+  - first:
+      213: 2105876132130291216
+    second: SMOL_Shooter_Outrun_45
+  - first:
+      213: -377720110241629317
+    second: SMOL_Shooter_Outrun_46
+  - first:
+      213: 2152956338235288901
+    second: SMOL_Shooter_Outrun_47
+  - first:
+      213: 5678641843930155547
+    second: SMOL_Shooter_Outrun_48
+  - first:
+      213: 6182716481693809932
+    second: SMOL_Shooter_Outrun_49
+  - first:
+      213: -5180679597114978107
+    second: SMOL_Shooter_Outrun_50
+  - first:
+      213: 7932163623971473604
+    second: SMOL_Shooter_Outrun_51
+  - first:
+      213: 482526052735065148
+    second: SMOL_Shooter_Outrun_52
+  - first:
+      213: 1158290102861877975
+    second: SMOL_Shooter_Outrun_53
+  - first:
+      213: -695087522446550484
+    second: SMOL_Shooter_Outrun_54
+  - first:
+      213: -6007333385970076459
+    second: SMOL_Shooter_Outrun_55
+  - first:
+      213: 7714791910060825459
+    second: SMOL_Shooter_Outrun_56
+  - first:
+      213: -2949887484540611435
+    second: SMOL_Shooter_Outrun_57
+  - first:
+      213: 1982844647290455647
+    second: SMOL_Shooter_Outrun_58
+  - first:
+      213: -7141235940873463036
+    second: SMOL_Shooter_Outrun_59
+  - first:
+      213: 6112425844232327641
+    second: SMOL_Shooter_Outrun_60
+  - first:
+      213: -3236087442395735171
+    second: SMOL_Shooter_Outrun_61
+  - first:
+      213: -730343647039025742
+    second: SMOL_Shooter_Outrun_62
+  - first:
+      213: 962348913285198945
+    second: SMOL_Shooter_Outrun_63
+  - first:
+      213: 294446740260798812
+    second: SMOL_Shooter_Outrun_64
+  - first:
+      213: 4580438902800625556
+    second: SMOL_Shooter_Outrun_65
+  - first:
+      213: 2459856319052825729
+    second: SMOL_Shooter_Outrun_66
+  - first:
+      213: 1826031275592312836
+    second: SMOL_Shooter_Outrun_67
+  - first:
+      213: -428555318804785072
+    second: SMOL_Shooter_Outrun_68
+  - first:
+      213: 2921439094851945471
+    second: SMOL_Shooter_Outrun_69
+  - first:
+      213: 1588445756466181312
+    second: SMOL_Shooter_Outrun_70
+  - first:
+      213: -410999569966873632
+    second: SMOL_Shooter_Outrun_71
+  - first:
+      213: -3691724291717352138
+    second: SMOL_Shooter_Outrun_72
+  - first:
+      213: 1094230858791268256
+    second: SMOL_Shooter_Outrun_73
+  - first:
+      213: 8050120696003390178
+    second: SMOL_Shooter_Outrun_74
+  - first:
+      213: 2426413251507264004
+    second: SMOL_Shooter_Outrun_75
+  - first:
+      213: 7542943464774508338
+    second: SMOL_Shooter_Outrun_76
+  - first:
+      213: 5906523183221477960
+    second: SMOL_Shooter_Outrun_77
+  - first:
+      213: -1417945206831528440
+    second: SMOL_Shooter_Outrun_78
+  - first:
+      213: 7171448870473747117
+    second: SMOL_Shooter_Outrun_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e4c4b908dbb0a0800000000000000
+      internalID: -6864655670797082184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f2fdc2a8ce5a370800000000000000
+      internalID: 8333326763721437030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2b122a77fb435a0800000000000000
+      internalID: -6542393838120357208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_3
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f32eaab3c5b5af0800000000000000
+      internalID: -406629930007117970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_4
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd181fe4164dece0800000000000000
+      internalID: -1374365255553507897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e54a9167f0429c20800000000000000
+      internalID: 3211700915507185129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_6
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5953bca36f56e50800000000000000
+      internalID: 6802113544590824951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_7
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1836
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3d50d6ebb37cd20800000000000000
+      internalID: 3298670941131101182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6046dfa0dfd8d8b0800000000000000
+      internalID: -5127102088365064085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac715046c3e5147c0800000000000000
+      internalID: -4088883373206595638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e436c2376ca09720800000000000000
+      internalID: 2850968123358983394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b2328130226ac50800000000000000
+      internalID: 6676060894308543340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_12
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bce783c346d6feb0800000000000000
+      internalID: -4686322775700804430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_13
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95cfa0a2b63de6c0800000000000000
+      internalID: -4112570743891442278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_14
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6de0605308aed760800000000000000
+      internalID: 7484604362923240814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_15
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be228198bb8d34fb0800000000000000
+      internalID: -4664646489055157525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_16
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1608
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265881df30a225e20800000000000000
+      internalID: 3337776470454469986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00d60cd413e0ff50800000000000000
+      internalID: 6913275106743996428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657a7f766b7c448c0800000000000000
+      internalID: -4015865381465381034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_19
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf1bbf0d6e7c830800000000000000
+      internalID: 4091492571739716382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_20
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb2bcbdfc916bf80800000000000000
+      internalID: -8091251299988067385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_21
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c61e22430b115800800000000000000
+      internalID: 599289926226155202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_22
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fccff47d1306090800000000000000
+      internalID: -8043374133654007927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_23
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8254800a7e60eb60800000000000000
+      internalID: 7773334427115213452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_24
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9474abb23633b0e0800000000000000
+      internalID: -2255399396858104677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_25
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1380
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8956873a8591407b0800000000000000
+      internalID: -5259050596371503720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93dea1aed73b1710800000000000000
+      internalID: 1664985916578386844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99d10e813e9e630800000000000000
+      internalID: 3956943443600447974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e92e66744473a310800000000000000
+      internalID: 1415102545317997024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_29
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985b339337aa484c0800000000000000
+      internalID: -4286113533492218487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_30
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f444b97d64cf25c50800000000000000
+      internalID: 6652656980774831183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_31
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d26a13268111a60800000000000000
+      internalID: 7642916852643278221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_32
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd5e0c54852979b0800000000000000
+      internalID: -5081989454100537924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_33
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c483a94e83e1760800000000000000
+      internalID: 7430438989698976806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_34
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1152
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb90cc2905a06df0800000000000000
+      internalID: -188969725525451802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5974095381d30d580800000000000000
+      internalID: -8804470097322162283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1526eba26b1953d0800000000000000
+      internalID: -3217510348174777057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ce7e532afded210800000000000000
+      internalID: 1359770025294556216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_38
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae54c15c984b33f30800000000000000
+      internalID: 4554182152012187114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_39
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d01ac6c243fc990800000000000000
+      internalID: -7363609500321772131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_40
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d05d464e9ab9c7a0800000000000000
+      internalID: -6356344210109673260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_41
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb9f18a433a72b20800000000000000
+      internalID: 3109633514276887485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_42
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282373b93a56bf1e0800000000000000
+      internalID: -2163023442663230846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_43
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 924
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4090825ab19a03570800000000000000
+      internalID: 8444435237519755524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2274ad20ce330a090800000000000000
+      internalID: -8025357447221065950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_45
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e799c4f23993d10800000000000000
+      internalID: 2105876132130291216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bb68c9f8112caf0800000000000000
+      internalID: -377720110241629317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_47
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54da07df166d0ed10800000000000000
+      internalID: 2152956338235288901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_48
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a402a9ba69ece40800000000000000
+      internalID: 5678641843930155547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_49
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dff46f1eb6dc550800000000000000
+      internalID: 6182716481693809932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_50
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c019d6da578a18b0800000000000000
+      internalID: -5180679597114978107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_51
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c848132ac4b41e60800000000000000
+      internalID: 7932163623971473604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_52
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 696
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c152073e642b600800000000000000
+      internalID: 482526052735065148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2deef26b2131010800000000000000
+      internalID: 1158290102861877975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_54
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a54c0c49d8a56f0800000000000000
+      internalID: -695087522446550484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_55
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4b8e91d1aa1aca0800000000000000
+      internalID: -6007333385970076459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_56
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b9b331e52701b60800000000000000
+      internalID: 7714791910060825459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_57
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594169446f4ef07d0800000000000000
+      internalID: -2949887484540611435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_58
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56488e73ba748b10800000000000000
+      internalID: 1982844647290455647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b1cf66fbb35ec90800000000000000
+      internalID: -7141235940873463036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_60
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d192699be2b3d450800000000000000
+      internalID: 6112425844232327641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_61
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 468
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b56eddd9b1713d0800000000000000
+      internalID: -3236087442395735171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd8642925c4dd5f0800000000000000
+      internalID: -730343647039025742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_63
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f856ec33fa5d00800000000000000
+      internalID: 962348913285198945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_64
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51448e00c5161400800000000000000
+      internalID: 294446740260798812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_65
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fafc4f9ecf09f30800000000000000
+      internalID: 4580438902800625556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_66
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184c4af0a4a232220800000000000000
+      internalID: 2459856319052825729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_67
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408ee6a35cd575910800000000000000
+      internalID: 1826031275592312836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_68
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058590845377d0af0800000000000000
+      internalID: -428555318804785072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_69
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3c699d0690b8820800000000000000
+      internalID: 2921439094851945471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_70
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 240
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4b423effa4b0610800000000000000
+      internalID: 1588445756466181312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e349459116db4af0800000000000000
+      internalID: -410999569966873632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_72
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635b187f05c54ccc0800000000000000
+      internalID: -3691724291717352138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_73
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af26882b2d7f2f00800000000000000
+      internalID: 1094230858791268256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_74
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea6d442f16c7bf60800000000000000
+      internalID: 8050120696003390178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_75
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a146e1ff95ca120800000000000000
+      internalID: 2426413251507264004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_76
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f1db2fd1beda860800000000000000
+      internalID: 7542943464774508338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_77
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84296818a8f28f150800000000000000
+      internalID: 5906523183221477960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_78
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806c6d3d852725ce0800000000000000
+      internalID: -1417945206831528440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOL_Shooter_Outrun_79
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 12
+        width: 176
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daac67170ca168360800000000000000
+      internalID: 7171448870473747117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9d26d687a65fe6e41bd14f9ec14c53a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

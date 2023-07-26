@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec3c03ba2e699604fb685fdbad6b6056, type: 3}
+  m_Name: BossWeapon
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 2176115679929690148, guid: 8d51d3ed45d71eb4bbfdccd9ac1d39f6, type: 3}
+  fireRate: 5
+  damage: 28
+  ammo: -1
+  reloadTime: 0
+  timeToAutomaticReload: 0
