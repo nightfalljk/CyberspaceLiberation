@@ -5,7 +5,7 @@ A build version can be fount at: https://nayrutes.itch.io/cyberspace-liberation
 
 The game was developed for the Games Lab course at Technical University Munich in cooperation with students from the Mediadesign Hochschule Munich by:
 
-##Art
+## Art
 
 Jasmin Bittner
 
@@ -17,11 +17,11 @@ Clara Scherer
 
 Kathrin Wurmseher
 
-##Music
+## Music
 
 Linus Krüger
 
-##Programming
+## Programming
 
 Mehmet Dereli
 
@@ -29,6 +29,6 @@ Felix Kosian
 
 Julius Krüger
 
-##Sound
+## Sound
 
 Emily Koitka
