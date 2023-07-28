@@ -2,7 +2,7 @@
 
 This is the source code for the game Cyberspace Liberation.
 
-A build version can be fount at: https://nayrutes.itch.io/cyberspace-liberation
+A build version can be found at: https://nayrutes.itch.io/cyberspace-liberation
 
 The game was developed for the Games Lab course at Technical University Munich in cooperation with students from the Mediadesign Hochschule Munich by:
 
