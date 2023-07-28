@@ -1,4 +1,4 @@
-# CyberspaceLiberation
+# Cyberspace Liberation
 
 This is the source code for the game Cyberspace Liberation.
 
